@@ -1,0 +1,17 @@
+<resources>
+    <dimen name="nombre_contacto">35sp</dimen>
+    <dimen name="telefono_contacto">20sp</dimen>
+    <dimen name="email_contacto">20sp</dimen>
+    <dimen name="top">15dp</dimen>
+    <dimen name="start">15dp</dimen>
+    <dimen name="margen">10dp</dimen>
+    <dimen name="margen_vertical">16dp</dimen>
+    <dimen name="margen_horizontal">16dp</dimen>
+    <dimen name="elevacion_actionbar">4dp</dimen>
+    <dimen name="corner_radius_cv">4dp</dimen>
+    <dimen name="nombre_cardview">20sp</dimen>
+    <dimen name="padding_cardview">10dp</dimen>
+    <dimen name="cv_btn_width">38dp</dimen>
+    <dimen name="cv_btn_height">38dp</dimen>
+
+</resources>
